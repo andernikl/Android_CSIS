@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">CSIS</string>
+    <string name="mission_statement">\t The mission of the Department of Computer Science and
+        Information Systems at SVSU is to provide an outstanding education to its students in
+        accordance with the guidelines of the SVSU mission, to advance scholarship in the key
+        domains of the computing and information systems sciences, and to engage in activities that
+        improve the welfare of society and enhance the reputation of SVSU.</string>
+
+    <string name="titleCommonCourses">COMMON COURSES</string>
+    <string name="textCommonCourses">CS 105\t\t\tCS 116\t\t\t CS216\nCS 146\t\t\tCS 311\nCIS 255\t\t\tCS 355</string>
+
+    <string name="titleDifferences">Differences Between CS and CSIS</string>
+
+    <string name="textDifferences">While computer science and computer information systems sound one in the same, they arenâ€™t. In fact, computer science and computer information systems are two different industries with two different knowledge bases. Essentially, computer science (CS) studies the why, and computer information systems (CIS) studies the how. For students interested in pursuing technology careers, itâ€™s important to know this difference.</string>
+
+    <string name="textProf1">Il-Hyung Cho\n
+        Department Chair\n
+        Associate Professor of Computer Science\n
+        and Information Systems\n
+        Science East 178\n
+        989-964-2044</string>
+
+        <string name="textProf2">George Corser\n
+        \n
+        Associate Professor of Computer Science\n
+        and Information Systems\n
+        Science East 179\n
+        989-964-2756</string>
+
+        <string name="textProf3">Moe Bidgoli\n
+        \n
+        Associate Professor of Computer Science\n
+        and Information Systems\n
+        Science East 175\n
+        989-964-4198</string>
+
+    <string name="margin_left">15dp</string>
+</resources>
